@@ -1,5 +1,5 @@
-{
-  ["name":"Basic avatar", "cost":0, "path":"Avatar_1.png", "flags":"none"],
-  ["name":"Cute avatar", "cost":150, "path":"Avatar_2.png", "flags":"none"],
-  ["name":"Node avatar", "cost":0, "path":"Avatar_node.png", "flags":"admin"]
-}
+[
+  {"name":"Basic avatar", "cost":0, "path":"Avatar_1.png", "flags":"none"},
+  {"name":"Cute avatar", "cost":150, "path":"Avatar_2.png", "flags":"none"},
+  {"name":"Node avatar", "cost":0, "path":"Avatar_node.png", "flags":"admin"}
+]
