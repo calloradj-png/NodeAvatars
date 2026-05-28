@@ -1,5 +1,5 @@
 [
   {"name_en":"Basic avatar", "name_ru":"Базовый аватар", "cost":0, "path":"Avatar_1.png", "flags":"none"},
   {"name_en":"Cute avatar", "name_ru":"Милый аватар", "cost":150, "path":"Avatar_2.png", "flags":"none"},
-  {"name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":0, "path":"Avatar_node.png", "flags":"admin"}
+  {"name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":10, "path":"Avatar_node.png", "flags":"admin"}
 ]
