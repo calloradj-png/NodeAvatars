@@ -2,5 +2,7 @@
   {"name_en":"Basic avatar", "name_ru":"Базовый аватар", "cost":0, "path":"Avatar_1.png", "flags":"none"},
   {"name_en":"Cute avatar", "name_ru":"Милый аватар", "cost":150, "path":"Avatar_2.png", "flags":"none"},
   {"name_en":"Frutiger aero", "name_ru":"Фрутигер аэро", "cost":250, "path":"Avatar_3.png", "flags":"none"},
+  {"name_en":"Girl", "name_ru":"Ну крутой аватар", "cost":150, "path":"Avatar_4.png", "flags":"none"},
+  {"name_en":"Kittien", "name_ru":"Котенок", "cost":350, "path":"Avatar_5.png", "flags":"none"},
   {"name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":10, "path":"Avatar_node.png", "flags":"admin"}
 ]
