@@ -1,5 +1,6 @@
 [
-  {"name_en":"Basic skin", "name_ru":"Базовый скин", "cost":0, "path":"Avatar_6.png", "flags":"none"},
+  {"name_en":"Basic boy skin", "name_ru":"Базовый скин мальчика", "cost":0, "path":"Avatar_6.png", "flags":"none"},
+  {"name_en":"Basic girl skin", "name_ru":"Базовый скин девочки", "cost":0, "path":"Avatar_7.png", "flags":"none"},
   {"name_en":"Green skater", "name_ru":"Зеленый скейтер", "cost":149, "path":"Avatar_2.png", "flags":"none"},
   {"name_en":"Striped with a bow tie", "name_ru":"Полосатый с бабочкой", "cost":249, "path":"Avatar_1.png", "flags":"none"},
   {"name_en":"Pastel Fox", "name_ru":"Пастельная лиса", "cost":149, "path":"Avatar_4.png", "flags":"none"},
