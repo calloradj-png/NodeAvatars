@@ -6,5 +6,5 @@
   {"name_en":"Pastel Fox", "name_ru":"Пастельная лиса", "cost":149, "path":"Avatar_4.png", "flags":"none"},
   {"name_en":"Frutiger aero", "name_ru":"Фрутигер аэро", "cost":299, "path":"Avatar_3.png", "flags":"none"},
   {"name_en":"Kittien", "name_ru":"Котенок", "cost":349, "path":"Avatar_5.png", "flags":"none"},
-  {"name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":0, "path":"Avatar_node.png", "flags":"admin"}
+  {"name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":5, "path":"Avatar_node.png", "flags":"admin"}
 ]
