@@ -1,6 +1,6 @@
 [
-  {"name_en":"Neon frame", "name_ru":"Неоновая рамка", "cost":50, "path":"Frame_4.png", "flags":"none"},
-  {"name_en":"Fruit frame", "name_ru":"Фруктовая рамка", "cost":75, "path":"Frame_1.png", "flags":"none"},
-  {"name_en":"Ice frame", "name_ru":"Ледяная рамка", "cost":100, "path":"Frame_2.png", "flags":"none"},
-  {"name_en":"Candy frame", "name_ru":"Конфетная рамка", "cost":100, "path":"Frame_3.png", "flags":"none"}
+  {"id":1, "name_en":"Neon frame", "name_ru":"Неоновая рамка", "cost":50, "path":"Frame_4.png", "flags":"none"},
+  {"id":2, "name_en":"Fruit frame", "name_ru":"Фруктовая рамка", "cost":75, "path":"Frame_1.png", "flags":"none"},
+  {"id":3, "name_en":"Ice frame", "name_ru":"Ледяная рамка", "cost":100, "path":"Frame_2.png", "flags":"none"},
+  {"id":4, "name_en":"Candy frame", "name_ru":"Конфетная рамка", "cost":100, "path":"Frame_3.png", "flags":"none"}
 ]
