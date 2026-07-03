@@ -1,13 +1,13 @@
 [
-  {"id":1, "name_en":"Basic boy skin", "name_ru":"Базовый скин мальчика", "cost":0, "path":"Avatar_6.png", "flags":"none"},
-  {"id":2, "name_en":"Basic girl skin", "name_ru":"Базовый скин девочки", "cost":0, "path":"Avatar_7.png", "flags":"none"},
-  {"id":3, "name_en":"Green skater", "name_ru":"Зеленый скейтер", "cost":199, "path":"Avatar_2.png", "flags":"none"},
-  {"id":4, "name_en":"Striped with a bow tie", "name_ru":"Полосатый с бабочкой", "cost":249, "path":"Avatar_1.png", "flags":"none"},
-  {"id":5, "name_en":"Pastel Fox", "name_ru":"Пастельная лиса", "cost":219, "path":"Avatar_4.png", "flags":"none"},
-  {"id":6, "name_en":"Frutiger aero", "name_ru":"Фрутигер аэро", "cost":349, "path":"Avatar_3.png", "flags":"none"},
-  {"id":7, "name_en":"Kittien", "name_ru":"Котенок", "cost":399, "path":"Avatar_5.png", "flags":"none"},
-  {"id":8, "name_en":"Red girl skater", "name_ru":"Бардовая девочка скейтер", "cost":199, "path":"Avatar_8.png", "flags":"none"},
-  {"id":9, "name_en":"676767", "name_ru":"676767", "cost":399, "path":"Avatar_9.png", "flags":"none"},
-  {"id":10, "name_en":"Cheremsha", "name_ru":"Черемша", "cost":299, "path":"Avatar_10.png", "flags":"none"},
-  {"id":999, "name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":5, "path":"Avatar_node.png", "flags":"admin"}
+  {"id":1001, "name_en":"Basic boy skin", "name_ru":"Базовый скин мальчика", "cost":0, "path":"Avatar_6.png", "flags":"none"},
+  {"id":1002, "name_en":"Basic girl skin", "name_ru":"Базовый скин девочки", "cost":0, "path":"Avatar_7.png", "flags":"none"},
+  {"id":1003, "name_en":"Green skater", "name_ru":"Зеленый скейтер", "cost":199, "path":"Avatar_2.png", "flags":"none"},
+  {"id":1004, "name_en":"Striped with a bow tie", "name_ru":"Полосатый с бабочкой", "cost":249, "path":"Avatar_1.png", "flags":"none"},
+  {"id":1005, "name_en":"Pastel Fox", "name_ru":"Пастельная лиса", "cost":219, "path":"Avatar_4.png", "flags":"none"},
+  {"id":1006, "name_en":"Frutiger aero", "name_ru":"Фрутигер аэро", "cost":349, "path":"Avatar_3.png", "flags":"none"},
+  {"id":1007, "name_en":"Kittien", "name_ru":"Котенок", "cost":399, "path":"Avatar_5.png", "flags":"none"},
+  {"id":1008, "name_en":"Red girl skater", "name_ru":"Бардовая девочка скейтер", "cost":199, "path":"Avatar_8.png", "flags":"none"},
+  {"id":1009, "name_en":"676767", "name_ru":"676767", "cost":399, "path":"Avatar_9.png", "flags":"none"},
+  {"id":1010, "name_en":"Cheremsha", "name_ru":"Черемша", "cost":299, "path":"Avatar_10.png", "flags":"none"},
+  {"id":9999, "name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":5, "path":"Avatar_node.png", "flags":"admin"}
 ]
