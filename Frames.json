@@ -4,5 +4,7 @@
   {"id":1003, "name_en":"Ice frame", "name_ru":"Ледяная рамка", "cost":100, "path":"Frame_2.png", "flags":"none"},
   {"id":1004, "name_en":"Candy frame", "name_ru":"Конфетная рамка", "cost":100, "path":"Frame_3.png", "flags":"none"},
   {"id":1005, "name_en":"Gold frame", "name_ru":"Золотая рамка", "cost":115, "path":"Frame_5.png", "flags":"none"},
+  {"id":1006, "name_en":"Nautical frame", "name_ru":"Морская рамка", "cost":140, "path":"Frame_6.png", "flags":"none"},
+  {"id":1007, "name_en":"Fiery frame", "name_ru":"Огненная рамка", "cost":100, "path":"Frame_7.png", "flags":"none"},
   {"id":9999, "name_en":"Node frame", "name_ru":"Node рамка", "cost":15, "path":"Frame_N.png", "flags":"admin", "size":1.2}
 ]
