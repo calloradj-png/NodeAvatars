@@ -9,5 +9,6 @@
   {"id":1008, "name_en":"Red girl skater", "name_ru":"Бардовая девочка скейтер", "cost":199, "path":"Avatar_8.png", "flags":"none"},
   {"id":1009, "name_en":"676767", "name_ru":"676767", "cost":399, "path":"Avatar_9.png", "flags":"none"},
   {"id":1010, "name_en":"Cheremsha", "name_ru":"Черемша", "cost":299, "path":"Avatar_10.png", "flags":"none"},
+  {"id":1011, "name_en":"UwUoid-G", "name_ru":"Увуоид-Джи", "cost":249, "path":"Avatar_11.png", "flags":"none"},
   {"id":9999, "name_en":"NODE avatar", "name_ru":"NODE аватар", "cost":5, "path":"Avatar_node.png", "flags":"admin"}
 ]
