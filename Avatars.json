@@ -11,5 +11,6 @@
   {"id":1010, "name_en":"Cheremsha", "name_ru":"Черемша", "name_tr":"Çeremşa", "cost":299, "path":"Avatar_10.png", "flags":"none"},
   {"id":1011, "name_en":"UwUoid-G", "name_ru":"Увуоид-Джи", "name_tr":"UwUoid-G", "cost":249, "path":"Avatar_11.png", "flags":"none"},
   {"id":1012, "name_en":"Liquid soap", "name_ru":"Жидкое мыло", "name_tr":"Sıvı sabun", "cost":219, "path":"Avatar_12.png", "flags":"none"},
+  {"id":1013, "name_en":"Iridescent Soap", "name_ru":"Перламутровое мыло", "name_tr":"Sedefli Sabun", "cost":0, "path":"Avatar_limited_1.png", "flags":"limited"},
   {"id":9999, "name_en":"NODE avatar", "name_ru":"NODE аватар", "name_tr":"NODE avatarı", "cost":5, "path":"Avatar_node.png", "flags":"admin"}
 ]
