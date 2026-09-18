@@ -12,5 +12,9 @@
   {"id":1011, "name_en":"UwUoid-G", "name_ru":"Увуоид-Джи", "name_tr":"UwUoid-G", "cost":249, "path":"Avatar_11.png", "flags":"none"},
   {"id":1012, "name_en":"Liquid soap", "name_ru":"Жидкое мыло", "name_tr":"Sıvı sabun", "cost":219, "path":"Avatar_12.png", "flags":"none"},
   {"id":1013, "name_en":"Iridescent Soap", "name_ru":"Перламутровое мыло", "name_tr":"Sedefli Sabun", "cost":0, "path":"Avatar_limited_1.png", "flags":"limited"},
+  {"id":1014, "name_en":"Texas", "name_ru":"Техас", "name_tr":"Teksas", "cost":249, "path":"Avatar_13.png", "flags":"none"},
+  {"id":1015, "name_en":"Snowflake", "name_ru":"Снежинка", "name_tr":"Kar tanesi", "cost":249, "path":"Avatar_14.png", "flags":"none"},
+  {"id":1016, "name_en":"Dragon", "name_ru":"Дракоша", "name_tr":"Ejderha", "cost":219, "path":"Avatar_15.png", "flags":"none"},
+  {"id":1017, "name_en":"Dolphin", "name_ru":"Дельфинчик", "name_tr":"Yunus", "cost":0, "path":"Avatar_16.png", "flags":"limited"},
   {"id":9999, "name_en":"NODE avatar", "name_ru":"NODE аватар", "name_tr":"NODE avatarı", "cost":5, "path":"Avatar_node.png", "flags":"admin"}
 ]
